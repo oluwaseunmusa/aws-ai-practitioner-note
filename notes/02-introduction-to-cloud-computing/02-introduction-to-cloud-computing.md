@@ -36,20 +36,6 @@ Fundamental concepts of cloud computing and AWS cloud platform essentials.
 - Security
 - Global reach
 
-## Important Points for Exam
-- [ ] Understand the 6 advantages of cloud computing
-- [ ] Know the difference between service models
-- [ ] Understand AWS global infrastructure components
-- [ ] Recognize cost optimization opportunities
-
-## AWS Core Services Overview
-- Compute (EC2, Lambda)
-- Storage (S3, EBS)
-- Database (RDS, DynamoDB)
-- Networking (VPC, CloudFront)
-
-## Additional Resources
-- [Notion Link](https://www.notion.so/Introduction-to-Cloud-Computing-18a2b8ab6c7c80b79c93ecbb549557a3?pvs=21)
 
 ---
 [← Previous: Introduction to AI](../01-introduction-to-ai/01-introduction-to-ai.md) | [Next: Amazon Bedrock and GenAI →](../03-amazon-bedrock-genai/03-amazon-bedrock-genai.md)
